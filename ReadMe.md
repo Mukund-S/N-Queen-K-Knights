@@ -24,10 +24,3 @@
    SA (for simulated annealing)
    Other (for local Beam)
 
-## Mukund Sharma
-
-## G01374620
-
-## CS580
-
-## George Mason University Fairfax
